@@ -1,1 +1,2 @@
 # WalletTrack
+Personal finances tracker
